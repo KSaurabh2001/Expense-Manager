@@ -66,3 +66,18 @@ expense-manager/
 ```bash
 git clone https://github.com/KSaurabh2001/Expense-Manager.git
 cd Expense-Manager
+
+
+```
+## 🧪  Configure MySQL database
+
+```spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/expenses
+    username: yourUsername
+    password: yourPassword
+```
+
+## 📬 Contact
+📧 saurabh.kumar20010218@gmail.com
+🔗 GitHub: KSaurabh2001
